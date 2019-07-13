@@ -1,4 +1,3 @@
-#!/home/virjid/code/py_code/fy_youdao/venv/bin/python3.6
 import urllib.request
 import urllib.parse
 import sys
